@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xiejahhahw.remembrancecam.com/sitemap.xml
